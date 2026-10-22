@@ -1,0 +1,20 @@
+# Banco de dados local (cada pessoa tem o seu)
+*.db
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Build do executável
+build/
+dist/
+
+# IDEs / sistema
+.idea/
+.vscode/
+Thumbs.db
